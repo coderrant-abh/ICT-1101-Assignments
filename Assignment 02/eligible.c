@@ -7,7 +7,7 @@
 int main(void)
 {
     float age;
-    printf("\nTo check, are you really eligible for voting or not;\nPlease Enter your age: ");
+    printf("\nTo check, are you really eligible for voting or not;\nPlease enter your age: ");
     scanf("%f", &age);
 
     if(age >= 18) {
