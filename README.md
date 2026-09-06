@@ -1,9 +1,8 @@
 # ICT-1101-Assignments
 
-The course teacher is Nazim Uddin (NU).
+The course teacher is <b>Nazim Uddin</b> (NU).
 
-Chairman
-Department of Information and Communication Technology
-Chandpur Science and Technology University
+Chairman of ICT Department.<br>
+Chandpur Science and Technology University<br>
 
 Email: info@ict.cstu.ac.bd
