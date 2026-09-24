@@ -1,4 +1,4 @@
-// Problem 2: Find the Number Is Armstrong or Not Using While Loop
+// Find the Number Is Armstrong or Not Using While Loop
 
 #include <stdio.h>
 
