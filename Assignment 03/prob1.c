@@ -1,4 +1,4 @@
-// Problem 1: Reverse a Given Number Using While Loop
+// Reverse a Given Number Using While Loop
 
 #include<stdio.h>
 
