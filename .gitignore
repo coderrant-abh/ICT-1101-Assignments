@@ -1,0 +1,28 @@
+# Ignore C output executables without extensions (Linux/WSL)
+prob1
+prob2
+prob3
+prob4
+prob5
+prob6
+prob7
+prob8
+prob9
+prob10
+prob11
+prob12
+prob13
+prob14
+prob15
+
+# Ignore standard compiled extensions
+*.out
+*.exe
+*.o
+*.a
+*.so
+*a.out
+
+# Wildcard rule: ignore all files without extensions in assignment subfolders
+Assignment*/*
+!Assignment*/*.*
