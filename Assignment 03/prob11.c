@@ -3,24 +3,27 @@
 
 int main(void)
 {
-	long long number;
+	long long n, sum;
 
-	scanf("%lld", &number);
+	printf("\nEnter a number: ");
+	scanf("%lld", &n);
 
-	if (number < 0)
-		number = -number;
+	if (n < 0)
+		n = -n;
 
-	while (number >= 10) {
-		long long sum = 0;
+	while (n >= 10) {
+		sum = 0;
 
-		while (number > 0) {
-			sum += number % 10;
-			number /= 10;
+		while (n > 0) {
+			sum = sum + n % 10;
+			n = n / 10;
 		}
 
-		number = sum;
+		n = sum;
 	}
 
-	printf("%lld\n", number);
+	printf("\nDigital Root = %lld\n\n", n);
+	
 	return 0;
 }
+
