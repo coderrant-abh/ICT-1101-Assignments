@@ -8,9 +8,10 @@ int main(void)
     printf("\nEnter the size of the Array: ");
     scanf("%d", &n);
 
-    int arr[n + 1], i;
     printf("\nEnter Array elements: \n");
     
+    int arr[n + 1], i;
+
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
