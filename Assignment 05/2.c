@@ -1,4 +1,4 @@
-// C Programming for Remove Duplicates Items.
+// C Programming for Remove Duplicates Items from an Array.
 #include <stdio.h>
 
 int main(void)
