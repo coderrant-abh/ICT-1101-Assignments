@@ -16,7 +16,7 @@ int main(void)
         scanf("%d", &arr[i]);
     }
 
-    printf("\nEnter the new elements you wanna add in that Array: ");
+    printf("\nEnter the new element you wanna add in that Array: ");
     scanf("%d", &newNum);
 
     printf("Enter the Array position for that number (1 to %d): ", n);
