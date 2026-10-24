@@ -1,4 +1,4 @@
-// C program to Upper Case and Lower Case conversion and vice-versa.
+// C Program to Upper Case and Lower Case Conversion and Vice-versa.
 #include <stdio.h>
 
 int main(void)
