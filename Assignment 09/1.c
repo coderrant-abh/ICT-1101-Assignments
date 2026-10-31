@@ -1,8 +1,6 @@
 // Store Student Information Like (Name, Roll & Marks) in C.
 #include <stdio.h>
-
-struct Student
-{
+struct Student {
     char name[50];
     int roll;
     float marks;
